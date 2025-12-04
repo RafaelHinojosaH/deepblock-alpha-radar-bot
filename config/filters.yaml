@@ -1,0 +1,26 @@
+marketcap:
+  min_usd: 100000
+  max_usd: 20000000
+
+liquidity:
+  min_usd: 20000
+
+volume_24h:
+  min_usd: 50000
+
+chains_allowlist:
+  - ethereum
+  - bsc
+  - base
+  - arbitrum
+  - solana
+
+token_exclude_keywords:
+  - scam
+  - test
+  - rug
+  - honeypot
+
+language:
+  default: en
+

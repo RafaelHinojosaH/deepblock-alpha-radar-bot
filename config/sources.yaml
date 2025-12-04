@@ -1,0 +1,26 @@
+dexscreener:
+  enabled: true
+  base_url: ${DEXSCREENER_BASE_URL}
+  networks:
+    - ethereum
+    - bsc
+    - base
+    - arbitrum
+    - solana
+
+dextools:
+  enabled: false   # activamos luego si usamos su API premium
+  base_url: ${DEXTOOLS_BASE_URL}
+
+geckoterminal:
+  enabled: true
+  base_url: ${GECKOTERMINAL_BASE_URL}
+
+l2beat:
+  enabled: true
+  base_url: ${L2BEAT_BASE_URL}
+
+defillama:
+  enabled: true
+  base_url: ${DEFILLAMA_BASE_URL}
+

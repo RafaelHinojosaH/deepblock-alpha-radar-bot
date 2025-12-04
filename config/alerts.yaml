@@ -1,0 +1,12 @@
+telegram:
+  enabled: true
+  min_score: 0.7
+
+discord:
+  enabled: false
+  min_score: 0.75
+
+twitter:
+  enabled: false
+  min_score: 0.85
+

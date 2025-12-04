@@ -1,0 +1,12 @@
+weights:
+  marketcap_score: 0.25
+  liquidity_score: 0.25
+  volume_score: 0.20
+  holder_distribution_score: 0.15
+  risk_score: 0.15  # se resta
+
+thresholds:
+  strong_alpha: 0.8
+  medium_alpha: 0.6
+  low_alpha: 0.4
+
