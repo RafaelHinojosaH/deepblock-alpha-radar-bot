@@ -8,3 +8,5 @@ PROCESSED_DIR = STORAGE_DIR / "processed"
 REPORTS_DIR = STORAGE_DIR / "reports"
 LOGS_DIR = STORAGE_DIR / "logs"
 
+DASHBOARD_DATA_DIR = ROOT_DIR.parent / "deepblockai-dashboard" / "data"
+
